@@ -45,6 +45,6 @@ x = input("Enter comma-separated numbers: ").split(',')
 
 # What do you need between the square brackets to make it work?
 y = []
-for x in range(0, len(x), 2):
-    y.append(x)
+for z in range(0, len(x), 2):
+    y.append(z)
 print(y)
