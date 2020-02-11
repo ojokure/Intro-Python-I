@@ -32,4 +32,4 @@ print(len(x))
 
 for n in x:
     print(n * 1000)
-    n + 1
+    # n + 1
