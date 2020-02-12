@@ -16,7 +16,7 @@ class Latlon:
 # YOUR CODE HERE
 
 class Waypoint(Latlon):
-    def __init__(self, name):
+    def __init__(self, name, lat, lon):
         self.name = name
         super().__init__(lat, lon)
 
